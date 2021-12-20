@@ -13,3 +13,5 @@ https://kaylynclark.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Kaylyn Clark
+
+### ©️2019 Run Buddy, Inc
